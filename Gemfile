@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'tracks', '~> 0.0.1'
+gem 'tracks', '~> 0.0.2'
