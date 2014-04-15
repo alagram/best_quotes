@@ -1,14 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    http_tools (0.4.5)
     rack (1.5.2)
-    tracks (0.2.1)
-      http_tools (~> 0.4.1)
-      rack (>= 1.0.0)
+    tracks (0.0.1)
+      rack
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  tracks
+  tracks (~> 0.0.1)
