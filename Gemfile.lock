@@ -2,11 +2,11 @@ GEM
   remote: https://rubygems.org/
   specs:
     rack (1.5.2)
-    tracks (0.0.1)
+    tracks (0.0.2)
       rack
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  tracks (~> 0.0.1)
+  tracks (~> 0.0.2)
