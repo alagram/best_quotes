@@ -30,6 +30,6 @@ class QuotesController < Tracks::Controller
   def show
     quote = FileModel.find(params["id"])
     ua = request.user_agent
-    render :quote, obj: quote, ua: ua
+    render_response :quote, :obj => quote, :ua => ua
   end
 end
